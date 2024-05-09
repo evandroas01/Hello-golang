@@ -1,1 +1,1 @@
-docker push evandroas01/fullcycle:latest
+docker push evandroas01/fullcycle:prod
